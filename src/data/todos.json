@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "Watch the latest show on Netflix",
+    "completed": false,
+    "createdAt": "2019-01-01T00:00:00.000Z"
+  },
+    {
+        "id": 2,
+        "text": "Go to the gym",
+        "completed": false,
+        "createdAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "text": "Go to the grocery store",
+        "completed": true,
+        "createdAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "text": "Go to the mall",
+        "completed": true,
+        "createdAt": "2022-01-01T00:00:00.000Z"
+    }
+]
